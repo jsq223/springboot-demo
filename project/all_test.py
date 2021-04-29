@@ -6,7 +6,7 @@ import time
 # from info import info
 from mail2 import MailUtils 
 
-#创建测试集合    
+#创建测试集合 1111111   
 def create_suite():
     print("测试开始")
     suite = unittest.TestSuite()
